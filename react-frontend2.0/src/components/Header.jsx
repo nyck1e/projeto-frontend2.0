@@ -1,7 +1,7 @@
 const Header = () => {
     return ( 
         <header>
-            Don't stay awake
+            <h1>Don't stay awake</h1>
         </header>
      );
 }
